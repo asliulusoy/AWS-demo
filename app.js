@@ -14,7 +14,7 @@ app.get('/students', (req, res) => {
     },
     {
       StuName: 'Tugce',
-      StuId: 122130193
+      StuId: 122130183
     }
   ])
 })
