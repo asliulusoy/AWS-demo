@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 app.get('/students', (req, res) => {
   res.send([
     {
-      StuName: 'Asli Gizem',
+      StuName: 'Asli',
       StuId: 121200107
     },
     {
