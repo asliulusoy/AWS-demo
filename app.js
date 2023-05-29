@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 app.get('/students', (req, res) => {
   res.send([
     {
-      StuName: 'Asli',
+      StuName: 'Asli Gizem',
       StuId: 121200107
     },
     {
@@ -23,3 +23,4 @@ app.listen(port, ()=> {
   console.log(`Demo app is up and listening to port: ${port}`);
 })
  
+
