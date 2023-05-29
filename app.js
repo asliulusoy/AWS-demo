@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
   res.send('<h1>CMPE 212 DEMO</h1> <h4>Message: Success.</h4> <p>Version 1.1</p>');
 })
 
-app.get('/products', (req, res) => {
+app.get('/students', (req, res) => {
   res.send([
     {
       StuName: 'Asli',
