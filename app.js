@@ -13,7 +13,7 @@ app.get('/students', (req, res) => {
       StuId: 121200107
     },
     {
-      StuName: 'Tugce',
+      StuName: 'Tugce A',
       StuId: 122130183
     }
   ])
